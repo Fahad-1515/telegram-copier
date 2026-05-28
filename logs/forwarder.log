@@ -1,0 +1,7 @@
+[18:38:43] ▶ Job -1004297262090→4239885535 | Resume from msg ID: beginning | Already sent: 0
+[00:57:30] ▶ Job -1004297262090→-1004239885535 | Resume from msg ID: beginning
+[00:58:29] Logged in as Cckpz
+[01:12:01] ✗ Send error: TypeError: Cannot use <telethon.tl.types.MessageMediaWebPage object at 0x0000013789EDE7B0> as file
+[01:12:04] ✅ Done | Sent: 225 | Errors: 1
+[12:01:14] ▶ Job -1004297262090→-1003981035335 | Resume from msg ID: beginning
+[12:01:16] Logged in as Cckpz
